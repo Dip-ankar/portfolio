@@ -60,8 +60,8 @@ export const projects = [
   description: 'A dynamic single-page portfolio application built with the MERN stack. It features animated sections for skills, projects, education, and a functional contact form.',
   imageUrl: projectImg1, // Replace with your actual image URL
   tags: ['React', 'Node.js', 'MongoDB', 'Tailwind CSS', 'Framer Motion'], // Updated tags
-  githubUrl: 'https://github.com/yourusername/portfolio-project',
-  liveUrl: 'https://your-live-portfolio.com'
+  githubUrl: 'https://github.com/Dip-ankar/portfolio.git',
+  liveUrl: 'https://portfolio-zeta-ashen-50.vercel.app/'
 },
 {
   _id: '2',
@@ -77,7 +77,7 @@ export const projects = [
   _id: '3',
   title: 'Mood-Based Song Detection',
   description: 'A full-stack web application that detects a user’s mood and recommends songs accordingly. Built with React for the frontend, styled using Tailwind CSS, and powered by an Express.js backend with MongoDB for storing and managing song data.',
-  imageUrl: 'https://i.imgur.com/your-image-3.png', // Replace with your actual image URL
+  imageUrl: 'https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/318/436/datas/original.png', // Replace with your actual image URL
   tags: ['React', 'Tailwind CSS', 'Express.js', 'MongoDB'],
   githubUrl: 'https://github.com/yourusername/mood-based-song-detection',
   liveUrl: 'https://your-live-project-3.com'
